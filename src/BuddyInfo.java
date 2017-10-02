@@ -1,6 +1,7 @@
 
 public class BuddyInfo {
 
+	// TEST EDIT
 	private String name;
 	private String address;
 	private int phoneNumber;
